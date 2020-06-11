@@ -1,2 +1,2 @@
-# Z-v-re-n-projekt
-Nejlepší projekt ever
+Final project
+Best project ever
